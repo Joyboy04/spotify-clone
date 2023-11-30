@@ -2,6 +2,7 @@ import getSongs from "@/actions/getSongs";
 import Header from "@/components/Header";
 import ListItems from "@/components/ListItems";
 import PageContent from "./components/PageContent";
+import { error } from "console";
 
 export const revalidate = 0;
 
